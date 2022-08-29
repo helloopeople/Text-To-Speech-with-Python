@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
-
-
-import pipwin
-
-
-# In[5]:
-
-
 from tkinter import*
 from tkinter import ttk
 import pyttsx3
